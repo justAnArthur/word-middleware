@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Text?>
+<AnchorPane prefHeight="700.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.fiit.gui.GuiController">
+    <SplitPane dividerPositions="0.2" orientation="VERTICAL" prefHeight="700.0" prefWidth="400.0">
+        <items>
+            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+                <children>
+                    <TextField fx:id="textField" layoutX="14.0" layoutY="43.0" prefHeight="58.0" prefWidth="250.0"/>
+                    <Label layoutX="14.0" layoutY="13.0" text="Message"/>
+                    <Button layoutX="272.0" layoutY="42.0" mnemonicParsing="false" onAction="#onEnter" prefHeight="58.0"
+                            prefWidth="112.0" text="Send"/>
+                </children>
+            </AnchorPane>
+            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+                <children>
+                    <GridPane fx:id="gamePanel" hgap="1" style="-fx-background-color: gray;" vgap="1"/>
+                    <GridPane fx:id="brickPanel" hgap="1" vgap="1"/>
+
+                    <VBox alignment="CENTER" layoutX="271.0" prefHeight="558.0" prefWidth="126.0">
+                        <Label text="Last: "/>
+                        <VBox alignment="CENTER">
+                            <Text fx:id="scoreValue" text="text"/>
+                        </VBox>
+                        <VBox alignment="CENTER">
+                            <GridPane fx:id="nextBrick" alignment="CENTER" hgap="1" vgap="1"/>
+                            <Label text="Next Brick"/>
+                        </VBox>
+                        <ToggleButton fx:id="pauseButton" text="Pause"/>
+                    </VBox>
+                </children>
+            </AnchorPane>
+        </items>
+    </SplitPane>
+</AnchorPane>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bb66103-4d5a-4ce1-9be8-00203ee2607f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.obsidian/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.obsidian/appearance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.obsidian/community-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.obsidian/core-plugins-migration.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.obsidian/core-plugins-migration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.obsidian/core-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.obsidian/core-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.obsidian/plugins/obsidian-git/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.obsidian/plugins/obsidian-git/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.obsidian/plugins/table-editor-obsidian/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.obsidian/plugins/table-editor-obsidian/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PKS/assignments/01 network-communication-analyzer/01 network-communication-analyzer.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PKS/assignments/01 network-communication-analyzer/01 network-communication-analyzer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PKS/assignments/02 custom-protocol-based-on-UDP/02 custom-protocol-based-on-UDP.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PKS/assignments/02 custom-protocol-based-on-UDP/02 custom-protocol-based-on-UDP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-03 word-middleware.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-03 word-middleware.md" beforeDir="false" afterPath="$PROJECT_DIR$/02-03 word-middleware.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-03 word-middleware.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/Brick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/Brick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/IBrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/IBrick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/JBrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/JBrick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/LBrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/LBrick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/OBrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/OBrick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/SBrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/SBrick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/TBrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/TBrick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/ZBrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiit/logic/bricks/ZBrick.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ZOXkQD1sKtTYXfmYKA4JdlvLo6" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.word-middleware [clean,compile].executor": "Run",
+    "Maven.word-middleware [javafx:run,-X].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kozub/Projects/_justAnArthur/university/ZOOP/assignments/02-03 word-middleware",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "proofread",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ImportExportFile.TargetDir.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean compile" />
+      <command value="mvn javafx:run -X" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-3183f394aec4-f0552fc0" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bb66103-4d5a-4ce1-9be8-00203ee2607f" name="Changes" comment="" />
+      <created>1674638790725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674638790725</updated>
+      <workItem from="1702294247768" duration="703000" />
+      <workItem from="1702743012888" duration="1046000" />
+      <workItem from="1702744733752" duration="43000" />
+      <workItem from="1702744788628" duration="512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fiit/logic/events/InputEventListener.java</url>
+          <line>20</line>
+          <properties class="com.fiit.logic.events.InputEventListener" method="onRotateEvent">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
